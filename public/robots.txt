@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-rho-green-0qoi4vwcio.vercel.app/sitemap.xml
